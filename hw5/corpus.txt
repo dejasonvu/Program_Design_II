@@ -1,4 +1,4 @@
-1, "Survey of user opinion of computer system response ti:::::::::::Me"
+1, "Survey of user opinion of computer system response tie"
 2, "Relation of user perceived response time to error measurement"
 6, "This is an example that (1) you should remove all symbols, such as ? and :."
 4, "The intersection graph of paths in trees"
