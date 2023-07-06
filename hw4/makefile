@@ -1,6 +1,6 @@
 all: hw4
 	
-hw2: main.o
+hw4: main.o
 	g++ -o hw4 main.o
 
 main.o: main.cpp
